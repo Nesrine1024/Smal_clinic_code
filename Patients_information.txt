@@ -1,0 +1,7 @@
+Maria 21 7538523695 Epilepsy
+Fatima 18 1239874635 High blood pressure
+Mohamed 26 5987426313 Head injury
+Anas 25 1238961575 Diabetes
+Laila 14 2547819633 Broken shoulder
+Hadil 35 2589523689 Broken leg
+hana 18 1234567899 broken arm

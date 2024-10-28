@@ -1,0 +1,6 @@
+Maria,"The patient has asthma and family history of blood pressure"
+Fatima,"The patient has epilepsy diabetes and a family history of high blood pressure"
+Mohamed,"The patient has diabetes and a family history of diabetes"
+Anas,"The patient has high blood pressure and a family history without illnesses"
+Laila,"The patient has allergies and a family history without illnesses"
+Hadil,"The patient has nothing and a family history with asthma"
